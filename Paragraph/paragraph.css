@@ -1,0 +1,62 @@
+body{
+    background-color: bisque;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+.head{
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    font-family: 'Times New Roman';
+    font-size: 15px;
+    text-transform: capitalize;
+}
+.p1{
+    font-size: 20px;
+    color: blue;
+    text-align: center;
+    font-style: italic;
+    text-transform: capitalize;
+}
+.p2{
+    font-size: 30px;
+    color: rgb(9, 9, 9);
+    text-align: center;
+    text-transform: lowercase;
+    background-color: rgb(255, 127, 234);
+    background-attachment: fixed;
+}
+.p3{
+    font-size: 40px;
+    color: rgb(9, 9, 8);
+    text-align: center;
+    text-transform: uppercase;
+    background-color: rgb(247, 247, 39);
+
+}
+
+.pree{
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+    text-transform:capitalize;
+    border-radius: 30px;
+    width: 925px;
+    margin-left: 90px;
+    border-style: double;
+}
+.p11{
+    padding: 5px;
+    border-style:dashed;
+    border-radius: 15px 15px 20px 20px;
+}
+.p12{
+    padding: 35px;
+    border-style:dotted;
+    border-radius: 20px;
+
+}
+.txt{
+    text-align: center;
+}
