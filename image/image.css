@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: blanchedalmond;
+    font-size:medium;
+    font-style:normal;
+}
+.jpeg{
+    background-color: azure;
+}
+.img1{
+    background-color: aquamarine;
+}
+.similiey{
+    background-color: rgb(231, 110, 110);
+    width: 580px;
+    height: 100px;
+    color: aliceblue;
+    margin-left: 338px;
+    border-radius: 20px 20px 15px;
+    border-style: dotted;
+    letter-spacing: 2m;
+}
