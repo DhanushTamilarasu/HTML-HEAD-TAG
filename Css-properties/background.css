@@ -1,0 +1,31 @@
+body{
+    background: url("2nd-image.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    color: aliceblue;
+    text-decoration:double;
+}
+h1{
+    align-content: center;
+    background-color: rgba(218, 136, 136, 0.561);
+    color: rgb(6, 6, 6);
+    transform: translateX(340px);
+    width: 250px;
+    border-radius: 10px;
+    align-items: center;
+    height: 45px;
+    margin-top: 1px;
+    border-style: groove;
+    border-width: 2px tomato;
+  }
+  a{
+    text-decoration: none;
+    background-color: aliceblue;
+    height: 20px;
+    width: 50px;
+    border-style: double;
+    text-transform: capitalize;
+    text-align: center;
+    transform: translateX(319px);
+  }
